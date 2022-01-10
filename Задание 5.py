@@ -1,4 +1,4 @@
-def uwu(t):
+def Is_sorted(t):
     if sorted(list(t)) == list(t):
         answer = True
     else:
